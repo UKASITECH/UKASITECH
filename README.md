@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Some projects
 - 📫 Reach me through Email
 - 😄 Pronouns: Umang
-- ⚡ Fun fact: I am 14 yrs old
+- ⚡ Fun fact: I am 14 yrs old (2024)
 
 <!---
 UKASITECH/UKASITECH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
