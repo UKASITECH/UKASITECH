@@ -5,6 +5,7 @@
 - 📫 Reach me through Email
 - 😄 Pronouns: Umang
 - ⚡ Fun fact: I am 14 yrs old (2024)
+- 😎 Founder of AlgoShare & CodePlanet
 
 <!---
 UKASITECH/UKASITECH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
