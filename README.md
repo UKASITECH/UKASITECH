@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UKASITECH
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding & Electronics
 - 🌱 I’m currently learning New Technologies
 - 💞️ I’m looking to collaborate on Some projects
 - 📫 Reach me through Email
