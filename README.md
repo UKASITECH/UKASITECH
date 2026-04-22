@@ -95,7 +95,7 @@ Contributions, ideas, and feedback are always welcome!
 
 If you’re interested in collaborating, contributing, or just want to connect:
 
-- 📧 **tech@ukasitech.com** *(or your preferred email)*
+- 📧 **ukasitech@gmail.com** *(or your preferred email)*
 - 🌐 Platforms built under **UKASITECH**
 
 ---
