@@ -56,7 +56,7 @@ A modern developer learning & problem-solving platform. Built for learners, comp
 <td width="50%" valign="top">
 
 ### 🧠 DeepNerd
-> *Coming Soon*
+> **[deepnerd.tech](https://www.deepnerd.tech)**
 
 A deep-dive platform designed for nerds who want to go beyond the surface — exploring concepts, systems, and ideas at depth.
 
