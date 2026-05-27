@@ -1,118 +1,179 @@
 <div align="center">
 
-# 🚀 UKASITECH
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=UKASITECH&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Umang%20Kumar%20Singh%20%E2%80%94%20Developer%20%E2%98%95&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
 
-**Building the future of coding, algorithms, and developer collaboration**
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+the+future+of+tech+%F0%9F%9A%80;Founder+%40+CodePlanet+%26+DeepNerd;Next.js+%7C+React+%7C+Tailwind+%7C+Node.js;Passion+%2B+Coffee+%3D+Code+%E2%98%95)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Developer%20Platforms-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Made%20With-Passion-red?style=flat-square"/>
+<br/>
+
+<!-- Badges -->
+![Status](https://img.shields.io/badge/Status-Active%20Building-7C3AED?style=flat-square&logo=statuspage&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Developer%20Platforms-6D28D9?style=flat-square&logo=dev.to&logoColor=white)
+![Made With](https://img.shields.io/badge/Made%20With-Passion%20%26%20Coffee-EC4899?style=flat-square&logo=buymeacoffee&logoColor=white)
+![Location](https://img.shields.io/badge/India-🇮🇳-orange?style=flat-square)
 
 </div>
 
 ---
 
-## 👋 About UKASITECH
+## 👋 Hey, I'm Umang Kumar Singh
 
-**UKASITECH** is a technology-driven company focused on building modern, scalable, and impactful platforms for developers and learners around the world.
+I'm a **Developer & Tech Entrepreneur** focused on building modern, scalable platforms that make coding accessible and fun for everyone. I run **UKASITECH** — a one-person tech studio turning ideas into real, working products.
 
-Founded and led by **Umang Kumar Singh**, UKASITECH aims to simplify complex problem-solving, empower developers, and create tools that genuinely help people grow in tech.
+> *"I believe great tools can change how people learn and build."*
 
----
-
-## 🧠 Our Products
-
-### 🔹 **CodePlanet**
-> A modern developer learning and problem-solving platform.
-
-**What CodePlanet offers:**
-- 🧩 Algorithmic & coding problem-solving
-- 📊 Progress tracking and developer analytics
-- 🔗 Integration with competitive programming platforms
-- 🌐 Clean, fast, and scalable web experience
-- 🚀 Built for learners, competitive coders, and developers
-
-🌍 Website: **https://www.acodeplanet.tech**
+- 🔭 Currently building **[CodePlanet](https://www.acodeplanet.tech)** and **DeepNerd**
+- 🧠 Passionate about algorithms, system design, and AI
+- 🌱 Always learning — Next.js, backend architecture, and beyond
+- 💬 Ask me about competitive programming, web dev, or startup ideas
+- 📧 Reach me: **ukasitech@gmail.com**
+- ⚡ Fun fact: I started with C basics and now ship full-stack products
 
 ---
 
-### 🔹 **Algoshare**
-> A platform designed to share, explore, and learn algorithms collaboratively.
+## 🚀 My Products
 
-**What Algoshare focuses on:**
-- 📚 Algorithm explanations & breakdowns
-- 🤝 Community-driven learning
-- 🧠 Strong emphasis on logic & optimization
-- 🛠️ Designed for clarity, speed, and understanding
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🌍 CodePlanet
+> **[acodeplanet.tech](https://www.acodeplanet.tech)**
 
-## 🏗️ Tech Stack
+A modern developer learning & problem-solving platform. Built for learners, competitive coders, and developers who want to level up.
 
-- **Frontend:** Next.js, React, Tailwind CSS
-- **Backend:** API-driven architecture
-- **Auth:** Secure OAuth & modern authentication
-- **Database:** Scalable cloud-based solutions
-- **Deployment:** Production-ready, performance-focused
+**What it offers:**
+- 🧩 Algorithmic & coding challenges
+- 📊 Progress tracking & analytics
+- 🔗 Competitive programming integrations
+- 🌐 Fast, clean, scalable web experience
 
----
+**Stack:** Next.js · React · Tailwind CSS
 
-## 🎯 Vision & Mission
+</td>
+<td width="50%" valign="top">
 
-### **Vision**
-To build a global ecosystem where anyone can learn, practice, and master problem-solving through technology.
+### 🧠 DeepNerd
+> *Coming Soon*
 
-### **Mission**
-- Make learning to code practical and engaging  
-- Build tools developers actually love to use  
-- Create platforms that scale with the user’s growth  
+A deep-dive platform designed for nerds who want to go beyond the surface — exploring concepts, systems, and ideas at depth.
 
----
+**What it focuses on:**
+- 📚 Deep-dive technical content
+- 🤖 AI & systems exploration
+- 🧪 Experimental ideas and builds
+- 🛠️ Built for curious, driven developers
 
-## 👨‍💻 Founder
+**Stack:** Next.js · Node.js · API-driven
 
-### **Umang Kumar Singh**
-- 💡 Developer & Tech Entrepreneur  
-- 🧠 Passionate about algorithms, systems, and AI  
-- 🚀 Focused on building impactful developer products  
-
-> “I believe great tools can change how people learn and build.”
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Contributing
+## 🛠️ Tech Stack
 
-Contributions, ideas, and feedback are always welcome!
+<div align="center">
 
-- Fork the repository
-- Create a new branch
-- Submit a pull request
-- Or open an issue for discussion
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## 📬 Contact & Collaboration
+## 📂 Notable Repositories
 
-If you’re interested in collaborating, contributing, or just want to connect:
+| Repo | Description | Language | ⭐ |
+|------|-------------|----------|-----|
+| [Python-Projects](https://github.com/UKASITECH/Python-Projects) | Beginner-friendly Python programs collection | Python | 1 |
+| [Python-Code](https://github.com/UKASITECH/Python-Code) | Code written while learning Python | Python | 1 |
+| [Cpp-Code](https://github.com/UKASITECH/Cpp-Code) | C++ learning journey code | C++ | 1 |
+| [C-Code](https://github.com/UKASITECH/C-Code) | C language learning code | C | 1 |
+| [Java-Code](https://github.com/UKASITECH/Java-Code) | Java learning code | Java | 1 |
+| [UKASITECH](https://github.com/UKASITECH/UKASITECH) | Profile & config | — | 1 |
 
-- 📧 **ukasitech@gmail.com** *(or your preferred email)*
-- 🌐 Platforms built under **UKASITECH**
+> 🗂️ **13 repositories** · **6+ total stars** across public repos — and growing!
 
 ---
 
-## ⭐ Support
+## 📊 GitHub Stats
 
-If you like what we’re building:
-- ⭐ Star this repository  
-- 🔁 Share it with others  
-- 💬 Give feedback or suggestions  
+<div align="center">
 
-Your support helps us grow 🚀
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=UKASITECH&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UKASITECH&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=UKASITECH&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏗️ UKASITECH Vision
+
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   VISION: Build a global ecosystem where anyone     │
+│   can learn, practice & master problem-solving      │
+│   through technology.                               │
+│                                                     │
+│   MISSION:                                          │
+│   → Make learning to code practical and engaging    │
+│   → Build tools developers actually love to use     │
+│   → Create platforms that scale with user growth    │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🤝 Connect & Collaborate
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-UKASITECH-181717?style=for-the-badge&logo=github)](https://github.com/UKASITECH)
+[![Website](https://img.shields.io/badge/CodePlanet-acodeplanet.tech-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://www.acodeplanet.tech)
+[![Email](https://img.shields.io/badge/Email-ukasitech@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ukasitech@gmail.com)
+[![Org](https://img.shields.io/badge/Org-UKASITECH--Org-24292e?style=for-the-badge&logo=github-organizations)](https://github.com/UKASITECH-Org)
+
+</div>
+
+---
+
+## ⭐ Support the Mission
+
+If you like what's being built here:
+
+- ⭐ **Star** the repositories
+- 🔁 **Share** with other developers
+- 💬 **Open an issue** with feedback or ideas
+- 🤝 **Contribute** — PRs always welcome!
 
 ---
 
 <div align="center">
 
-**© 2026 UKASITECH — Built with passion for developers**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" width="100%" />
+
+**© 2026 UKASITECH — Umang Kumar Singh — Built with ☕ Passion and Coffee**
+
+![Profile Views](https://komarev.com/ghpvc/?username=UKASITECH&color=7C3AED&style=flat-square&label=Profile+Views)
 
 </div>
